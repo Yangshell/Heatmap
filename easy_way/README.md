@@ -4,7 +4,7 @@
 - geopy
   
 # 运行说明:  
-将'heatmap1.js'、'heatmap1.py'和数据文件'*.csv'放在同一文件夹下,数据文件要求只包括两列，第一列为地址，第二列为数值：
+将'heatmap1.js'、'heatmap1.py'和数据文件'*.csv'放在同一文件夹下,数据文件要求只包含两列，第一列为地址，第二列为数值：
   
 ![](https://github.com/Yangshell/Heatmap/blob/master/image/new1.png)
   
@@ -34,5 +34,5 @@ Windows系统在命令提示符中运行：
 `dirname 数据文件名`  
 `center 地图中心(可以是城市名如'北京'、省份名如'辽宁'、国家名如'中国')`  
 `size 地图尺度(根据要展示的地理范围大小在以下几项中选择：城区、市、省、中国)`  
-  
+  
 ![](https://github.com/Yangshell/Heatmap/blob/master/image/7.png)
