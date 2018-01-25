@@ -4,7 +4,7 @@
 - geopy
   
 # 运行说明:  
-将'heatmap1.js'、'heatmap1.py'和数据文件'*.csv'放在同一文件夹下：
+将'heatmap1.js'、'heatmap1.py'和数据文件'*.csv'放在同一文件夹下,数据文件要求只包括两列，第一列为地址，第二列为数值：
   
 ![](https://github.com/Yangshell/Heatmap/blob/master/image/1.png)
   
