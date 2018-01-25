@@ -1,4 +1,10 @@
 #coding=utf-8
+#
+#  heatmap1.py
+#
+#  Created by Yangshell on 2018/1/25.
+#  Copyright © 2018年 Yangshell. All rights reserved.
+#
 import ssl
 from geopy.geocoders import Nominatim
 import math
@@ -10,7 +16,7 @@ import webbrowser
 
 script_path = os.path.realpath(__file__)
 diradress = os.path.dirname(script_path)
-dirname = 'test2.csv'
+dirname = 'test1.csv'
 city = '北京'
 df = pd.read_csv(diradress + '/' + dirname, header=None, sep=',', encoding='gb2312')
 datastring = '            data: ['
