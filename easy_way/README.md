@@ -35,4 +35,4 @@ Windows系统在命令提示符中运行：
 `center 地图中心(可以是城市名如'北京'、省份名如'辽宁'、国家名如'中国')`  
 `size 地图尺度(根据要展示的地理范围大小在以下几项中选择：城区、市、省、中国)`  
   
-![](https://github.com/Yangshell/Heatmap/blob/master/image/7.png)
+![](https://github.com/Yangshell/Heatmap/blob/master/image/new7.png)
