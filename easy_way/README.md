@@ -1,9 +1,9 @@
-#环境要求:  
+# 环境要求:  
   - Python 3.
   - pandas
   - geopy
   
-#运行说明:  
+# 运行说明:  
   将'heatmap1.js'、'heatmap1.py'和数据文件'*.csv'放在同一文件夹下：
   
   ![](https://github.com/Yangshell/Heatmap/blob/master/image/1.png)
@@ -28,7 +28,7 @@
   
   ![](https://github.com/Yangshell/Heatmap/blob/master/image/5.png)
   
-#参数设置:  
+# 参数设置:  
   程序主要涉及三个参数的设定:   
 
   `dirname 数据文件名`  
