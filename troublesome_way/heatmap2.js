@@ -6,9 +6,9 @@
    <body style="height: 100%; margin: 0">
        <div id="container" style="height: 100%"></div>
 
-       <!-- 新添加的jQuery -->
+       
        <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-       <!-- End -->
+       
 
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>
        <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
