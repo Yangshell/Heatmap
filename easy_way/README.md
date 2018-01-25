@@ -29,7 +29,7 @@ Windows系统在命令提示符中运行：
 ![](https://github.com/Yangshell/Heatmap/blob/master/image/5.png)
   
 # 参数设置:  
-程序主要涉及三个参数的设定:   
+程序主要涉及三个参数(代码11-13行)的设定:   
 
 `dirname 数据文件名`  
 `center 地图中心(可以是城市名如'北京'、省份名如'辽宁'、国家名如'中国')`  
