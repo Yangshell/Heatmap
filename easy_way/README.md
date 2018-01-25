@@ -29,9 +29,13 @@
   ![](https://github.com/Yangshell/Heatmap/blob/master/image/5.png)
   
 参数设置：
-  程序主要涉及三个参数的设定：
+  
+  程序主要涉及三个参数的设定：
+  
   dirname 数据文件名
-  center 地图中心(可以是城市名如'北京'、省份名如'辽宁'、国家名如'中国')
-  size 地图尺度(根据要展示的地理范围大小在以下几项中选择：城区、市、省、中国)
+  
+  center 地图中心(可以是城市名如'北京'、省份名如'辽宁'、国家名如'中国')
+  
+  size 地图尺度(根据要展示的地理范围大小在以下几项中选择：城区、市、省、中国)
   
   ![](https://github.com/Yangshell/Heatmap/blob/master/image/7.png)
